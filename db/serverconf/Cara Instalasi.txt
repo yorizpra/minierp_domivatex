@@ -1,0 +1,11 @@
+https://www.cyberciti.biz/faq/how-to-install-php-7-2-on-centos-7-rhel-7/
+mysql : https://www.jagoanhosting.com/tutorial/tutorial-vps/cara-install-mysql-pada-centos-7
+apache : https://www.tecmint.com/install-apache-on-centos-7/
+
+https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-centos-7
+
+
+
+https://www.tecmint.com/change-root-directory-of-apache-web-server/
+https://www.niagahoster.co.id/blog/redirect-php/
+https://devops.ionos.com/tutorials/install-and-configure-mod_rewrite-for-apache-on-centos-7.html
